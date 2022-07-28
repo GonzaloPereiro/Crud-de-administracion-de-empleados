@@ -1,0 +1,17 @@
+C:\Users\Gonzalito\source\repos\Dashboard\CapaNegocios\bin\Debug\net5.0-windows\CapaNegocios.deps.json
+C:\Users\Gonzalito\source\repos\Dashboard\CapaNegocios\bin\Debug\net5.0-windows\CapaNegocios.dll
+C:\Users\Gonzalito\source\repos\Dashboard\CapaNegocios\bin\Debug\net5.0-windows\ref\CapaNegocios.dll
+C:\Users\Gonzalito\source\repos\Dashboard\CapaNegocios\bin\Debug\net5.0-windows\CapaNegocios.pdb
+C:\Users\Gonzalito\source\repos\Dashboard\CapaNegocios\bin\Debug\net5.0-windows\CapaDatos.dll
+C:\Users\Gonzalito\source\repos\Dashboard\CapaNegocios\bin\Debug\net5.0-windows\CapaEntidad.dll
+C:\Users\Gonzalito\source\repos\Dashboard\CapaNegocios\bin\Debug\net5.0-windows\CapaDatos.pdb
+C:\Users\Gonzalito\source\repos\Dashboard\CapaNegocios\bin\Debug\net5.0-windows\CapaEntidad.pdb
+C:\Users\Gonzalito\source\repos\Dashboard\CapaNegocios\obj\Debug\net5.0-windows\CapaNegocios.csprojAssemblyReference.cache
+C:\Users\Gonzalito\source\repos\Dashboard\CapaNegocios\obj\Debug\net5.0-windows\CapaNegocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalito\source\repos\Dashboard\CapaNegocios\obj\Debug\net5.0-windows\CapaNegocios.AssemblyInfoInputs.cache
+C:\Users\Gonzalito\source\repos\Dashboard\CapaNegocios\obj\Debug\net5.0-windows\CapaNegocios.AssemblyInfo.cs
+C:\Users\Gonzalito\source\repos\Dashboard\CapaNegocios\obj\Debug\net5.0-windows\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalito\source\repos\Dashboard\CapaNegocios\obj\Debug\net5.0-windows\CapaNegocios.csproj.CopyComplete
+C:\Users\Gonzalito\source\repos\Dashboard\CapaNegocios\obj\Debug\net5.0-windows\CapaNegocios.dll
+C:\Users\Gonzalito\source\repos\Dashboard\CapaNegocios\obj\Debug\net5.0-windows\ref\CapaNegocios.dll
+C:\Users\Gonzalito\source\repos\Dashboard\CapaNegocios\obj\Debug\net5.0-windows\CapaNegocios.pdb

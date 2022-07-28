@@ -1,0 +1,12 @@
+C:\Users\Gonzalito\source\repos\Dashboard\CapaEntidad\bin\Debug\net5.0-windows\CapaEntidad.deps.json
+C:\Users\Gonzalito\source\repos\Dashboard\CapaEntidad\bin\Debug\net5.0-windows\CapaEntidad.dll
+C:\Users\Gonzalito\source\repos\Dashboard\CapaEntidad\bin\Debug\net5.0-windows\ref\CapaEntidad.dll
+C:\Users\Gonzalito\source\repos\Dashboard\CapaEntidad\bin\Debug\net5.0-windows\CapaEntidad.pdb
+C:\Users\Gonzalito\source\repos\Dashboard\CapaEntidad\obj\Debug\net5.0-windows\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\Gonzalito\source\repos\Dashboard\CapaEntidad\obj\Debug\net5.0-windows\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalito\source\repos\Dashboard\CapaEntidad\obj\Debug\net5.0-windows\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\Gonzalito\source\repos\Dashboard\CapaEntidad\obj\Debug\net5.0-windows\CapaEntidad.AssemblyInfo.cs
+C:\Users\Gonzalito\source\repos\Dashboard\CapaEntidad\obj\Debug\net5.0-windows\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalito\source\repos\Dashboard\CapaEntidad\obj\Debug\net5.0-windows\CapaEntidad.dll
+C:\Users\Gonzalito\source\repos\Dashboard\CapaEntidad\obj\Debug\net5.0-windows\ref\CapaEntidad.dll
+C:\Users\Gonzalito\source\repos\Dashboard\CapaEntidad\obj\Debug\net5.0-windows\CapaEntidad.pdb
